@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\yt2mp3.props" />
+</Project>
